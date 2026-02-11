@@ -1,0 +1,5 @@
+{
+  "name": "voice-input",
+  "description": "Speech-to-text input for Claude Code — speak your prompts instead of typing them. Uses OpenAI Whisper for local transcription.",
+  "version": "1.0.0"
+}
